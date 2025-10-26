@@ -1,5 +1,6 @@
-## Interface: 110100, 40402, 11506
+## Interface: 110205, 40402, 11507
 ## Title: Masque: Hex
+## Category: Masque
 
 ## Notes: Hex skin for Masque.
 ## Notes-deDE: Hex-Skin für Masque.

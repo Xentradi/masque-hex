@@ -10,7 +10,7 @@
 ## Notes-ruRU: Скин Hex для Masque.
 ## Notes-zhTW: Masque的Hex皮膚。
 
-## Version: 1.0.1
+## Version: 1.16.0
 ## Author: AmtoftEU
 ## Dependencies: Masque
 

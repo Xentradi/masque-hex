@@ -1,4 +1,4 @@
-## Interface: 110205, 40402, 11507
+## Interface: 120000, 40402, 11507
 ## Title: Masque: Hex
 ## Category: Masque
 
